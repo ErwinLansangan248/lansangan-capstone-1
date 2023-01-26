@@ -7,11 +7,18 @@ CSS Reset
 }
 
 body {
-		background-color: #0E1F1A;
+	background-image: url(https://images.bauerhosting.com/legacy/empire-tmdb/films/75656/images/9wbXqcx6rHhoZ9Esp03C7amQzom.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill);
+	background-size: 100%;
+	background-position: center top;
+	text-align: middle center;
+	padding: 1rem;
+	background-repeat: fixed;
+	margin-top: 1rem;
+	color: #CBA20E;
 }
 
 #font {
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Roboto', sans-serif;
 
 }
 
@@ -22,20 +29,48 @@ nav {
 	background-color: #54636B;
 	padding: 1rem;
 	color: #CBA20E;
+	background-repeat: fixed;
+	text-align: middle center;
+	padding: 1rem;
+	background-repeat: fixed;
+	margin-top: 1rem;
 
 }
 
-#bg-image {
+/*#bg-image {
 	min-height: 100vh;
 	background-image: url(https://images.bauerhosting.com/legacy/empire-tmdb/films/75656/images/9wbXqcx6rHhoZ9Esp03C7amQzom.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill);
 	background-size: 100%;
 	background-position: center top;
 	text-align: middle center;
 	padding: 1rem;
-
+	background-repeat: fixed;
 	margin-top: 1rem;
 
 }
+
+#about-me {
+	min-height: 100vh;
+	background-image: url(https://images.bauerhosting.com/legacy/empire-tmdb/films/75656/images/9wbXqcx6rHhoZ9Esp03C7amQzom.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill);
+	background-size: 100%;
+	background-position: center top;
+	text-align: middle center;
+	padding: 1rem;
+	background-repeat: fixed;
+	margin-top: 1rem;
+}
+
+#gallery {
+	min-height: 100vh;
+	background-image: url(https://images.bauerhosting.com/legacy/empire-tmdb/films/75656/images/9wbXqcx6rHhoZ9Esp03C7amQzom.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill);
+	background-size: 100%;
+	background-position: center top;
+	text-align: middle center;
+	padding: 1rem;
+	background-repeat: fixed;
+	margin-top: 1rem;
+}*/
+
 .front-bg {
 
 	background-color: rgba(0, 0, 0, 0.5);
@@ -77,7 +112,3 @@ nav {
 	color: #CBA20E;
 }
 
-#footer {
-	color: #CBA20E
-
-}
